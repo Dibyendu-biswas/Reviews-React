@@ -1,0 +1,88 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 60%;
+  height: 90vh;
+  background-color: antiquewhite;
+border-radius: 50px;
+}
+
+.img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  margin-top: 0 auto;
+  margin-top: 2rem;
+  border: 5px solid rgb(0, 0, 0);
+}
+
+.imgTag {
+  width: 100%;
+  display: block;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 50%;
+  position: relative;
+}
+
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 80%;
+  background-color: rgb(236, 199, 205);
+  margin-top: 20px;
+  border-radius: 15px;
+}
+
+h3 {
+  font-size: 2rem;
+  margin-top: 20px;
+  text-transform: capitalize;
+
+}
+
+p,
+span {
+  font-size: 1.5rem;
+  margin: 1rem;
+  font-weight: 400;
+  padding: 0 20px;
+}
+
+span {
+  font-weight: 200;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.btns {
+  display: flex;
+  margin: 1rem;
+}
+
+button {
+  font-size: 2rem;
+  padding: 0.2rem 2rem;
+  transition: all 0.3s;
+  justify-content: space-between;
+  outline: none;
+  border: none;
+  background: transparent;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+svg {
+  color: rgb(84, 184, 18);
+}
+
+svg:hover {
+  color: crimson;
+}
+
+.randomBtn:hover {
+  background-color: crimson;
+}

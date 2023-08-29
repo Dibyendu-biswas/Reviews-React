@@ -27,9 +27,7 @@
 <p>8.Project Testing</p>
 <p>9.State Management</p>
 <p>10.Api Fetching</p>
-<p>11.Data management</p>
-<p>12.Error Handelling</p>
-<p>13.Authentication</p>
-<p>14.Github & Vercel utilisation</p>
+<p>11.Error Handelling</p>
+<p>12.Github & Vercel utilisation</p>
 
 <h2>- Developed by Dibyendu | CoderX Community | Send Message to WhatsApp</h2>

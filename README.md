@@ -4,7 +4,7 @@
 <h2>Project Details :</h2>
 <p>This is a library of multiple basic projects based on HTML, CSS & Vanilla Javascript .i use React as a framework </p>
 
-<li>Project Live Link : All the live link available in the Respecttive Repo</li>
+<li>Project Live Link : All the live link available in the Respecttive Repository</li>
 <h2>Technology Used -</h2>
 <p>
 <ul>
